@@ -1,7 +1,6 @@
 # React Native Camera [![Backers on Open Collective](https://opencollective.com/react-native-infy-camera/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-infy-camera/sponsors/badge.svg)](#sponsors) [![npm version](https://badge.fury.io/js/react-native-infy-camera.svg)](http://badge.fury.io/js/react-native-infy-camera) [![npm downloads](https://img.shields.io/npm/dm/react-native-infy-camera.svg)](https://www.npmjs.com/package/react-native-infy-camera)
 
 ## Docs
-Follow our docs here [https://react-native-infy-camera.github.io/react-native-infy-camera/](https://react-native-infy-camera.github.io/react-native-infy-camera/)
 
 React Native infy camera module for React Native.
 
